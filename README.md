@@ -1,2 +1,7 @@
 # learn_to_program_with_java
 This project is for the use of only learning java
+
+
+# Hello World
+I've put both .java and .class file inside the 'Hello World' project, also added the screenshot of the command
+how to run it.
