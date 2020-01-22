@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class Addition{
 	
 	public static void main(String str []){
 		System.out.println("Hello World!");
